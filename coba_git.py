@@ -1,6 +1,4 @@
-print("reza")
-print("coba coba coy")
-print("informatika itenasssssss")
+print("perubahan branch baru")
 
 data_panen = {
     'lokasi1':{
