@@ -1,4 +1,4 @@
-print("perubahan branch baru")
+print("perubahan branch baru bang")
 
 data_panen = {
     'lokasi1':{
