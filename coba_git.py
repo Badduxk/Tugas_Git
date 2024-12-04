@@ -1,4 +1,5 @@
 print("perubahan branch baru bang")
+print("konflik")
 
 data_panen = {
     'lokasi1':{
